@@ -62,17 +62,6 @@ This Power BI dashboard analyzes historical sales data from a sample retail data
 ## Files Included
 
 - `Sales Analysis - Power BI.pdf`: Static version of the dashboard
-- `Sample Super Store.pbix`: Power BI source file (optional)
 - `README.md`: Project documentation
 
 ---
-
-## Notes
-
-Due to organizational constraints, the live dashboard link is not publicly shareable. This PDF version has been included for accessibility across teams.
-
----
-
-## Contact
-
-For walkthrough videos or additional dashboards, feel free to reach out.
